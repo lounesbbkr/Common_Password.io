@@ -1,6 +1,7 @@
 Common Password Search Webpage
 
-Description
+Description :
+
 The Common Password Search Webpage is a web application that allows users to search for common passwords. It provides a simple interface where users can input a password they want to check and receive feedback on whether it is commonly used.
 
 Key Features
