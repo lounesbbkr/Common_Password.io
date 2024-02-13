@@ -5,7 +5,8 @@ Description :
 The Common Password Search Webpage is a web application that allows users to search for common passwords. It provides a simple interface where users can input a password they want to check and receive feedback on whether it is commonly used.
 
 Key Features
-Password Database: Utilizes a database containing a large collection of commonly used passwords, regularly updated to include new trends in password usage and security breaches.
+
+Password Database : Utilizes a database containing a large collection of commonly used passwords, regularly updated to include new trends in password usage and security breaches.
 
 Search Functionality: Includes a search bar where users can input passwords they want to check. Upon submission, the application quickly scans the database and provides feedback on the password's commonness.
 
