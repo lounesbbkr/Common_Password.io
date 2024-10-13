@@ -1,3 +1,4 @@
+// Original search function
 function search() {
     var searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
     var searchResults = document.getElementById("searchResults");
@@ -26,3 +27,10 @@ function search() {
         });
     }
 }
+
+// Trigger search on 'Enter' key press or button click
+document.getElementById('searchInput').addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        search();
+    }
+});
